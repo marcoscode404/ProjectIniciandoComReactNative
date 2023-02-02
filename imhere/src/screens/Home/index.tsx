@@ -31,11 +31,14 @@ export function Home() {
                         +
                     </Text>
                 </TouchableOpacity>
-                
+
             </View>
 
-            <Participant />
-            <Participant />
+            <Participant name="Marcos"/>
+            <Participant name="Vini"/>
+            <Participant name="Douglas"/>
+            <Participant name="Jheimes"/>
+
 
         </View>
     )
